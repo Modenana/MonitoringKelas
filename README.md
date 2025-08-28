@@ -1,39 +1,67 @@
-<h1 align="center">Monitoring_Tugas 📚</h1>
+<h1 align="center">📚 Monitoring_Tugas (Seperti Classroom) </h1>
 
 <p align="center">
-  <b> Monitoring Tugas adalah aplikasi berbasis website yang berguna bagi guru dan murid. 
-  Guru dapat mengelola, memantau, serta menilai tugas yang diberikan kepada murid, 
-  sedangkan murid bisa melihat, mengerjakan, dan mengumpulkan tugas secara online. </b>
+  <i>“Belajar lebih terarah, tugas lebih terpantau.”</i>
 </p>
-
-<h1 align="center">Fitur yang Didapatkan 📌</h1>
-
-Jika login sebagai **Admin** :
-1. Mengelola akun user (tambah/hapus guru & murid)
-2. Mengelola data mata pelajaran/kelas
-3. Melihat rekap tugas guru & murid
-4. Mencetak laporan kegiatan pembelajaran
-
-Jika login sebagai **Guru** :
-1. Membuat dan mengelola tugas (tambah, edit, hapus)
-2. Memberikan deadline pengumpulan
-3. Memantau murid yang sudah/ belum mengumpulkan
-4. Memberikan nilai dan feedback ke murid
-5. Upload materi pembelajaran
-
-Jika login sebagai **Murid** :
-1. Melihat daftar tugas yang diberikan guru
-2. Mengumpulkan tugas (upload file/link jawaban)
-3. Melihat status tugas (dikumpulkan/terlambat/dinilai)
-4. Melihat nilai dan feedback dari guru
-5. Mengakses materi pembelajaran
 
 ---
 
-<h1 align="center">ERD – Monitoring Tugas 📊</h1>
+<h2 align="center">🔎 Apa itu Monitoring Tugas?</h2>
+
+<p align="center">
+  <b> Monitoring Tugas adalah aplikasi berbasis website yang memudahkan guru dalam mengelola, 
+  memantau, dan memberi penilaian terhadap tugas siswa. Sementara itu, siswa dapat dengan mudah 
+  melihat daftar tugas, mengerjakannya, serta menerima umpan balik langsung dari guru. </b>
+</p>
+
+---
+
+<h2 align="center">🎯 Tujuan Aplikasi</h2>
+
+- Membantu guru agar lebih mudah memantau pengumpulan tugas.  
+- Membantu siswa agar tidak ketinggalan deadline.  
+- Meningkatkan komunikasi pembelajaran secara digital.  
+- Menyediakan sistem rekap otomatis untuk laporan sekolah.  
+
+---
+
+<h2 align="center">⚡ Fitur Utama</h2>
+
+👩‍💻 **Admin**  
+- Mengelola data user (guru & murid)  
+- Mengelola kelas & mata pelajaran  
+- Membuat laporan rekap tugas  
+- Melihat aktivitas guru dan murid  
+
+👨‍🏫 **Guru**  
+- Membuat tugas baru (judul, deskripsi, deadline)  
+- Upload materi & soal  
+- Memantau murid yang sudah/ belum mengumpulkan  
+- Memberikan nilai & komentar feedback  
+- Edit atau hapus tugas  
+
+👩‍🎓 **Murid**  
+- Melihat daftar tugas yang diberikan guru  
+- Upload jawaban (file/link/teks)  
+- Melihat status tugas (dikumpulkan, terlambat, dinilai)  
+- Mendapat nilai & feedback dari guru  
+- Mengakses materi pembelajaran  
+
+---
+
+<h2 align="center">🛠️ Teknologi yang Digunakan</h2>
+
+- Frontend : HTML, CSS, JavaScript (Bootstrap/Tailwind)  
+- Backend : PHP / Node.js  
+- Database : MySQL  
+- Tools : Draw.io, dbdiagram.io, Figma  
+
+---
+
+<h2 align="center">📊 ERD – Monitoring Tugas</h2>
 
 Lihat diagram lengkap di:  
-https://dbdiagram.io/d/Monitoring-Tugas-xxxxxxx  
+https://dbdiagram.io/d/Monitoring-Tugas-xxxxxx  
 
 atau lihat gambar diagram di bawah:
 
@@ -43,15 +71,15 @@ atau lihat gambar diagram di bawah:
 
 ---
 
-<h1 align="center">Flowchart – Monitoring Tugas 📈📉</h1>
+<h2 align="center">🌀 Flowchart – Monitoring Tugas</h2>
 
 <p align="center">
-  <img src="Flowchart_MonitoringTugas.drawio.svg" width="700"/>
+  <img src="Flowchart_monitoringTugas.svg" width="700"/>
 </p>
 
 ---
 
-<h1 align="center">Diagram Use Case – Monitoring Tugas 🎯</h1>
+<h2 align="center">🎭 Use Case Diagram – Monitoring Tugas</h2>
 
 | Admin | Guru & Murid | 
 |------------|-----------------|
@@ -59,16 +87,25 @@ atau lihat gambar diagram di bawah:
 
 ---
 
-<h1 align="center">Activity Diagram – Monitoring Tugas ⚙️</h1>
+<h2 align="center">📍 Activity Diagram – Monitoring Tugas</h2>
 
 <p align="center">
-  <img src="Activity_Diagram_MT.drawio.svg" width="700"/>
+  <img src="Activity_Diagram.drawio.svg" width="700"/>
 </p>
 
 ---
 
-<h1 align="center">Tampilan Aplikasi – Monitoring Tugas 🖥️📱</h1>
+<h2 align="center">🖥️ Tampilan Aplikasi – Monitoring Tugas</h2>
 
 | Login Page | Dashboard Admin | Dashboard Guru | Dashboard Murid |
 |------------|-----------------|----------------|-----------------|
-| ![Login](UI/Login_MT.png) | ![Admin](UI/Dashboard_Admin_MT.png) | ![Guru](UI/Dashboard_Guru_MT.png) | ![Murid](UI/Dashboard_Murid_MT.png) |
+| ![Login](UI/Login_UI.png) | ![Admin](UI/Admin_Home_Page.png) | ![Guru](UI/Teacher_Home_Page.png) | ![Murid](UI/Student_Home_Page.png) |
+
+---
+
+<h2 align="center">🚀 Future Features</h2>
+
+- Notifikasi otomatis via email / WhatsApp  
+- Integrasi dengan Google Drive / OneDrive  
+- Forum diskusi antara guru & murid  
+- Mode offline untuk akses materi tanpa internet  
