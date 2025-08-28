@@ -1,8 +1,4 @@
-<h1 align="center">📚 Monitoring_Tugas (Seperti Classroom) </h1>
-
-<p align="center">
-  <i>“Belajar lebih terarah, tugas lebih terpantau.”</i>
-</p>
+<h1 align="center">📚 Monitoring_Tugas </h1>
 
 ---
 
