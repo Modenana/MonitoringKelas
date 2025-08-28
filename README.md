@@ -49,12 +49,12 @@
 <h2 align="center">📊 ERD – Monitoring Tugas</h2>
 
 Lihat diagram lengkap di:  
-https://dbdiagram.io/d/Monitoring-Tugas-xxxxxx  
+https://dbdiagram.io/d/68b08b8a777b52b76c09c89e
 
 atau lihat gambar diagram di bawah:
 
 <p align="center">
-  <img src="Monitoring_Tugas_ERD.svg" width="850"/>
+  <img src="db_diagram.svg" width="850"/>
 </p>
 
 ---
