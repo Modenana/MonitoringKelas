@@ -49,14 +49,6 @@
 
 ---
 
-<h2 align="center">🛠️ Teknologi yang Digunakan</h2>
-
-- Frontend : HTML, CSS, JavaScript (Bootstrap/Tailwind)  
-- Backend : PHP / Node.js  
-- Database : MySQL  
-- Tools : Draw.io, dbdiagram.io, Figma  
-
----
 
 <h2 align="center">📊 ERD – Monitoring Tugas</h2>
 
@@ -74,7 +66,7 @@ atau lihat gambar diagram di bawah:
 <h2 align="center">🌀 Flowchart – Monitoring Tugas</h2>
 
 <p align="center">
-  <img src="Flowchart_monitoringTugas.svg" width="700"/>
+  <img src="Flowchart_monitoringTugas.svg" width="1000"/>
 </p>
 
 ---
