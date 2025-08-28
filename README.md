@@ -82,7 +82,7 @@ atau lihat gambar diagram di bawah:
 <h2 align="center">📍 Activity Diagram – Monitoring Tugas</h2>
 
 <p align="center">
-  <img src="Activity_Diagram.drawio.svg" width="700"/>
+  <img src="Activity_Diagram_MOKES.drawio.svg" width="700"/>
 </p>
 
 ---
@@ -93,11 +93,3 @@ atau lihat gambar diagram di bawah:
 |------------|-----------------|----------------|-----------------|
 | ![Login](UI/Login_UI.png) | ![Admin](UI/Admin_Home_Page.png) | ![Guru](UI/Teacher_Home_Page.png) | ![Murid](UI/Student_Home_Page.png) |
 
----
-
-<h2 align="center">🚀 Future Features</h2>
-
-- Notifikasi otomatis via email / WhatsApp  
-- Integrasi dengan Google Drive / OneDrive  
-- Forum diskusi antara guru & murid  
-- Mode offline untuk akses materi tanpa internet  
