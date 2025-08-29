@@ -71,12 +71,13 @@ atau lihat gambar diagram di bawah:
 <p align="center">
  <img src="Use_case_MONITORINGTUGAS.drawio.svg" width="700"/>
 </p>
+
 ---
 
 <h2 align="center">📍 Activity Diagram – Monitoring Tugas</h2>
 
 <p align="center">
-  <img src="Activity_Diagram_MOKES.drawio.svg" width="700"/>
+  <img src="Activity_Diagram_MOKES.drawio.svg" width="500"/>
 </p>
 
 ---
