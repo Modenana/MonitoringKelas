@@ -69,9 +69,9 @@ atau lihat gambar diagram di bawah:
 
 <h2 align="center">🎭 Use Case Diagram – Monitoring Tugas</h2>
 
-| Admin | Guru & Murid | 
-|------------|-----------------|
-| ![Admin](UseCase_Admin_MT.drawio.svg) | ![Guru & Murid](UseCase_Guru&Murid_MT.drawio.svg) | 
+| Admin Guru & Murid | 
+|-----------------------------|
+| ![Admin & Guru & Murid](Use_case_MONITORINGTUGAS.drawio.svg) | 
 
 ---
 
